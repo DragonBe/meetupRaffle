@@ -1,4 +1,5 @@
 <?php
+require_once 'Raffle.php';
 
 class RaffleTest extends PHPUnit_Framework_TestCase
 {
