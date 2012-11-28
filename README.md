@@ -23,3 +23,10 @@ See it in action
 ----------------
 
 Go to http://www.phptrivia.com/meetupRaffle and see the magic.
+
+Travis-CI
+---------
+
+Yes, we love the work of http://travis-ci.org and we all appreciate the awesomeness they do to have our quality up and our tests succeed!
+
+[![Build Status](https://secure.travis-ci.org/DragonBe/meetupRaffle.png?branch=master)](https://travis-ci.org/DragonBe/meetupRaffle)
