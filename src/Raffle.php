@@ -27,7 +27,7 @@ class Raffle implements Countable
     public function getParticipant($idx)
     {
         if (!isset ($this->_participants[$idx])) {
-            throw new OutofBoundsException('This item is not available');
+            throw new OutOfBoundsException('This item is not available');
         }
         return $this->_participants[$idx];
     }
